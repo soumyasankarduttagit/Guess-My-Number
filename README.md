@@ -2,6 +2,10 @@
 
 A small JavaScript project implementing a number guessing game in the browser.
 
+# Play the Game !
+
+https://soumyasankarduttagit.github.io/Guess-My-Number/
+
 ## About
 
 The game picks a secret number between 1 and 20. The player enters guesses and receives feedback (too high, too low, or correct) until they find the number. The score decreases with each wrong guess, and the high score is tracked across rounds.
